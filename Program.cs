@@ -1,4 +1,4 @@
-﻿// Task 34
+﻿// Task 36
 
 Console.WriteLine("Введите количество элементов массива: ");
 int [] array = new int[Convert.ToInt32(Console.ReadLine())];
